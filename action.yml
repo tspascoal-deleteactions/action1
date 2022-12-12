@@ -4,5 +4,5 @@ runs:
   steps:
     - run: echo Hello 
       shell: bash
-    - uses: tspascoal-deleteactions/actions@main
+    - uses: tspascoal-deleteactions/action2@main
     
